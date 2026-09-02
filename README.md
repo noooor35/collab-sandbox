@@ -1,3 +1,3 @@
 # Team Project
 Database Port: 5432
-Default Mode: standard
+Default Mode: maintainer-strict-mode
