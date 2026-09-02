@@ -1,1 +1,3 @@
-# collab-sandbox
+# Team Project
+Database Port: 5432
+Default Mode: standard
